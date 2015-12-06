@@ -2,11 +2,11 @@
 
 Assignment Page [Link](https://www.coursera.org/learn/data-manipulation/programming/AxbQn/twitter-sentiment-analysis)
 
-Libraries Needed:
+##Libraries Needed:
 - json
 - [oauth2](https://pypi.python.org/pypi/oauth2/)
 
-File Descriptions:
+##File Descriptions:
 
 ###AFINN.txt
 Collection of commonly used English words and their sentiment scores,
