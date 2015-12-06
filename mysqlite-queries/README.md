@@ -14,7 +14,9 @@ Basic SQL queries on 2(reuters,matrix) given databases.
 Contains queries in plain text.
 
 ###queries.sql
-Load up cmd and type in sqlite3 < queries.sql to get the results for all queries in queries.sql.  
+Load up cmd and type in 
+```sqlite3 < queries.sql ```
+to get the results for all queries in queries.sql.  
 (sqlite3 and the databases used by the queries in queries.sql should be in the same file) 
 
 
